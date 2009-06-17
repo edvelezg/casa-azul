@@ -1,0 +1,28 @@
+[Global]
+CurrentProject=Website.vpj
+[ProjectDates]
+Website.vpj=20090607155739811
+[ActiveConfig]
+Website.vpj=Release
+[TreeExpansion2]
+- Website.vpj
+  - Source Files
+  - Header Files
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1680 1050 763 0 840 990 0 0 N 0 0 0 0 774 816 0
+CWD: gallery
+FILEHIST: 9
+..\..\..\Installers\Photoshop\Adobe.Photoshop.CS4.Extended.v11.0.0.0.Crack\Adobe.Photoshop.CS4.Extended.v11.0.0.0.Crack\Crack\Leeme.txt
+..\..\..\Downloads\Compressed\cssant2-download\code_archive\sample\gallery.css
+..\..\..\Downloads\Compressed\cssant2-download\code_archive\sample\gallery.html
+gallery.html
+style1.css
+about.html
+contact.html
+events.html
+PROJECT_CACHE: 0
+TBCLASS: 0 0
