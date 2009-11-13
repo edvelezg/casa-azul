@@ -99,12 +99,17 @@ blockquote.fun {
 #navigation {
   width: 220px;
   height: 800px;
-  background: #7da5d8 url(navigation2.jpg) no-repeat;
+  background: #7da5d8 url(backgrounds/navigation2.jpg) no-repeat;
 }
 
 h2, ul {
   margin-top: 15px;
 }
+
+li.lista {
+  font-size: x-small;
+}
+
 
 #header {
   border-top: 3px solid #7da5d8;
@@ -256,16 +261,17 @@ top-left corner of the browser's content display.
 */
 
 #navigation, #bodycontent, #header {
-  position: absolute;
+	position: absolute;
+	left: 1px;
 }
 
 #navigation, #bodycontent {
-  top: 14.5em;
+	top: 233px;
 }
 
 #bodycontent {
-  left: 240px;
-  line-height: 1.5;
+	left: 229px;
+	line-height: 1.5;
 }
 
 #header {
@@ -288,3 +294,21 @@ top-left corner of the browser's content display.
 	display: block;
 	border: 1px solid #333300;
 }
+
+img {
+/*  border: 15px solid white;*/
+}
+
+#apDiv1 {
+  position:absolute;
+  width:242px;
+  height:115px;
+  z-index:1;
+  left: 0px;
+  top: 794px;
+}
+.style2 {
+  font-size: 18px
+}
+
+
