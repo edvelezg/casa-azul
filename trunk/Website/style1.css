@@ -18,10 +18,7 @@ h1 {
   background-color: navy;
   color: white;
   padding-top: 160px;
-/*padding-bottom: .2em;*/
-/*padding-left: .4em;*/
   margin: 0;
-/*background: #56b9e0 url(backgrounds/letra.png) no-repeat left top;*/
 }
 
 h2 {
@@ -264,7 +261,7 @@ top-left corner of the browser's content display.
 
 #navigation, #bodycontent, #header {
 	position: absolute;
-	left: 1px;
+/*  left: 1px;*/
 }
 
 #navigation, #bodycontent {
@@ -272,7 +269,7 @@ top-left corner of the browser's content display.
 }
 
 #bodycontent {
-	left: 229px;
+	left: 250px;
 	line-height: 1.5;
 }
 
@@ -285,20 +282,15 @@ top-left corner of the browser's content display.
 }
 #albumlist li {
 	list-style-type: none;
-	float: left;
-    width:240px;
-	margin-right: 6px;
-	margin-bottom: 10px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
 	font: bold 0.8em Arial, Helvetica, sans-serif;
 	color: #333333;
 }
 #albumlist img {
 	display: block;
 	border: 1px solid #333300;
-}
-
-img {
-/*  border: 15px solid white;*/
 }
 
 #apDiv1 {
@@ -309,6 +301,7 @@ img {
   left: 0px;
   top: 794px;
 }
+
 .style2 {
   font-size: 18px
 }
