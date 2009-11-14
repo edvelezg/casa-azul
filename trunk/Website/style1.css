@@ -79,6 +79,8 @@ a:hover {
   text-decoration: none;
   color: white;
   background-color: navy;
+  font-size:24; 
+  font-weight:bold;
 }
 
 a:active {
