@@ -2,7 +2,8 @@
 <Project
     Version="10.0"
     VendorName="SlickEdit"
-    WorkingDir=".">
+    WorkingDir="."
+    VCSProject="Subversion:">
     <Config
         Name="Release"
         OutputFile=""
@@ -53,10 +54,22 @@
             Name="Source Files"
             Filters="*.c;*.C;*.cc;*.cpp;*.cp;*.cxx;*.c++;*.prg;*.pas;*.dpr;*.asm;*.s;*.bas;*.java;*.cs;*.sc;*.e;*.cob;*.html;*.rc;*.tcl;*.py;*.pl;*.d">
             <F N="about.html"/>
+            <F N="arboles.html"/>
+            <F N="casaH.html"/>
+            <F N="cocina.html"/>
+            <F N="comedor.html"/>
             <F N="contact.html"/>
             <F N="events.html"/>
+            <F N="flores.html"/>
             <F N="gallery.html"/>
+            <F N="gallery2.html"/>
+            <F N="gallery3.html"/>
+            <F N="gallery4.html"/>
+            <F N="hamacas.html"/>
             <F N="index.html"/>
+            <F N="kioskco.html"/>
+            <F N="naturaleza.html"/>
+            <F N="piscina.html"/>
         </Folder>
         <Folder
             Name="Header Files"
