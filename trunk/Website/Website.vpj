@@ -84,6 +84,7 @@
             Name="Other Files"
             Filters="">
             <F N="divers-circle.jpg"/>
+            <F N="Libros.txt"/>
             <F N="style1.css"/>
         </Folder>
     </Files>
