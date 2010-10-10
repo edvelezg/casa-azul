@@ -1,0 +1,55 @@
+@charset "UTF-8";
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+body {
+	background-color: #006;
+	background-image: url(../images/bkgdHome2.jpg);
+	background-attachment: fixed;
+	background-position: center top;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+h1 {
+	font-size: 28px;
+}
+h2 {
+	font-size: 18px;
+	color: #F90;
+}
+a:link {
+	color: #99F;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+	text-decoration: none;
+	background-color: #000;
+}
+a:active {
+	color: #F00;
+}
+.quote {
+	color: #66F;
+}
+.quote strong {
+	color: #99F;
+}
+#content {
+	width:70%;
+	z-index:1;
+	padding: 20px;
+	background-image: url(../images/bkgd.png);
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
