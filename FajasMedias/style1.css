@@ -3,7 +3,7 @@ CSS for Bubble Under site
 */
 body {
   font-family: Verdana, Helvetica, Arial, sans-serif;
-  background-color: #e2edff;
+  background-color: #c59279;
   line-height: 125%;
   padding: 0;
   margin: 0;
@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: x-large;
-  background-color: navy;
+  background-color: #efdacd;
   color: white;
   padding-top: 160px;
   margin: 0;
@@ -47,8 +47,8 @@ li {
   font-size: small;
   font-style: italic;
   font-family: Georgia, Times, serif;
-  border-top: 3px solid #7da5d8;
-  border-bottom: 3px solid #7da5d8;
+  border-top: 3px solid #efdacd;
+  border-bottom: 3px solid #efdacd;
   padding-top: .2em;
   padding-bottom: .2em;
   padding-left: .8em;
@@ -98,7 +98,8 @@ blockquote.fun {
 #navigation {
   width: 220px;
   height: 800px;
-  background: #7da5d8 url(backgrounds/navigation2.jpg) no-repeat;
+/*  background: #796468 url(backgrounds/Navigation.png) ;*/
+  background: #974722;
 }
 
 h2, ul {
@@ -111,12 +112,13 @@ li.lista {
 
 
 #header {
-  border-top: 3px solid #7da5d8;
+/*  border-top: 3px solid #7da5d8;*/
+  border-top: 3px solid #efdacd;
 }
 
 #sitebranding {
   height: 201px;
-  background: #60abfc;
+  background: #974722;
   /*padding-left: 15px;*/
 }
 img.feature {
