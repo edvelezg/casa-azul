@@ -65,17 +65,19 @@ a {
 }
 
 a:link {
-  color: black;
+/*color: #d99126;*/
+  color: #FE642E;
 }
 
 a:visited {
-  color: navy;
+/*color: #9bab54;*/
+  color: #FE642E;
 }
 
 a:hover {
   text-decoration: none;
-  color: white;
-  background-color: navy;
+  color: #ff6e00;
+  background-color: #b94a46;
   font-size:24; 
   font-weight:bold;
 }
