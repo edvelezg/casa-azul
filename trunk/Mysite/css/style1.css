@@ -4,7 +4,7 @@ body,td,th {
 	color: #FFF;
 }
 body {
-	background-color: #006;
+	background-color: #000;
 	background-image: url(../images/bkgdHome.jpg);
 	background-attachment: fixed;
 	background-position: center top;
@@ -12,7 +12,7 @@ body {
 	text-align: center;
 }
 p {
-	text-align: center;
+	text-align: left;
 }
 h1 {
 	font-size: 28px;
