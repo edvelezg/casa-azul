@@ -4,26 +4,38 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Contact Eduardo Gutarra</title>
 <link href="css/style1.css" rel="stylesheet" type="text/css" media="screen" />
+<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<script src="SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
+<link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 <div id="content"> <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="portfolio.html">Projects</a> | <a href="contact.html">Contact</a>
-<h1></h1>
-<h1>Contact Eduardo Gutarra</h1>
+
+<h1>Contact Me</h1>
   <p> You can email me directly at <a href="mailto:eduardo.gutarra@unb.ca">eduardo.gutarra@unb.ca</a> &nbsp;or use the form&nbsp;below:</p>
-  <p>(Contact form would go here)</p>
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="68" valign="top"><p align="right">Your Email:<br />
-        Message:</p>
-        <p align="right">&nbsp;</p></td>
-      <td width="266" valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td width="68" valign="top"><p align="right">&nbsp;</p></td>
-      <td width="266" valign="top"><p>Enter Button</p></td>
-    </tr>
-  </table>
+  <form id="form1" name="form1" method="post" action="">
+    <p><span id="sprytextfield1">
+     <label> email<br />
+        <input type="text" name="email" id="email" accesskey="e" tabindex="1" />
+      </label>
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span>
+    </p>
+    <p><span id="sprytextarea1">comments
+        <label><br />
+        <textarea name="message" id="message" cols="45" rows="5" accesskey="c" tabindex="2"></textarea>
+      <span id="countsprytextarea1">&nbsp;</span></label>
+      <span class="textareaRequiredMsg">A value is required.</span><span class="textareaMaxCharsMsg">Exceeded maximum number of characters.</span></span></p>
+    <p>
+      <input type="submit" name="submit" id="submit" value="Submit" />
+    </p>
+  </form>
+  <p>&nbsp;</p>
 </div>
+<script type="text/javascript">
+var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "email", {validateOn:["blur"]});
+var sprytextarea1 = new Spry.Widget.ValidationTextarea("sprytextarea1", {validateOn:["blur"], maxChars:400, counterType:"chars_remaining", counterId:"countsprytextarea1"});
+</script>
 </body>
 </html>
