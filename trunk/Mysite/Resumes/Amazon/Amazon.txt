@@ -1,0 +1,26 @@
+I have a dimension called Product. where I support a hierarchy of 
+
+Company
+    -Product
+        -Model
+
+However, some of the facts in the fact table specify values at a level 
+higher in the hierarchy, like a product without a model, or the company 
+without the product or the model.  A solution to this problem I think 
+would be to add a value of unspecified for the product and model that were 
+not specified, but I am wondering if there could be a problem in rolling 
+up facts that have a value of unspecified for both Product and Model.  
+
+
+Product
+ProductID   Company     Product         Model
+1           Apple       unspecified     unspecified
+2           Apple       Ipod            4G
+3           HP          Pavillion       m9020n
+4           HP          unspecified     unspecified
+
+
+How to deal with many-to-many valued levels in a dimension 
+
+eduargutar1305349
+g813879wx9j30^lazyennui
