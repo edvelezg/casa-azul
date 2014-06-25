@@ -1,96 +1,107 @@
-Eduardo Gutarra 
-19603 Fernhaven, Katy, TX 77449 
-(281) 398-9692, edvelez.g@gmail.com 
+Eduardo Gutarra
+19603 Fernhaven, Katy, TX 77449
+(281) 398-9692, edvelez.g@gmail.com
 
 ==============================
-           OBJECTIVE           
-============================== 
+           OBJECTIVE
+==============================
 
-   Obtain a software engineering or computational research position.
+   Obtain a position where I can maximize my skills as a software developer or computer scientist.
 
-============================== 
-           EDUCATION           
-============================== 
+==============================
+           EDUCATION
+==============================
 
-   Research-based Master of Computer Science (MCS)                  expected October 2011
-   University of New Brunswick, Saint John, NB, Canada                                   
-   Thesis Title: Multi-column bitmap indexing                                            
-   Emphasis: Databases                                                                   
-                                                                                         
-                                                                                         
-   Certification on Foundational CS Courses-Industrial perspective           Aug-Oct 2009
-   INFOSYS, Mysore, Karnataka, India                                                     
-   Emphasis: .NET framework using C#                                                     
-                                                                                         
-   Bachelor of Computer Science                                                  Jun 2009
-   EAFIT University                                                                           
-   Medellín, Antioquia, Colombia                                                              
-   G.P.A. 4.3/5.0                                                                             
-                                                                                          
-==============================                                                             
-          EXPERIENCE                                                                       
-==============================                                                             
-                                                                                           
+   Research-based Master of Computer Science (MCS)                      Graduated May 2012
+   University of New Brunswick, Saint John, NB, Canada
+   Thesis Title: Multi-column bitmap indexing
+   Emphasis: Databases
+
+   Bachelor of Computer Science                                                   Jun 2009
+   EAFIT University
+   Medellín, Antioquia, Colombia
+   G.P.A. 4.3/5.0
+
+   Certification on Foundational CS Courses-Industrial perspective            Aug-Oct 2009
+   INFOSYS, Mysore, Karnataka, India
+   Emphasis: .NET framework using C#
+
+==============================
+          EXPERIENCE
+==============================
+
+   TIBCO OpenSpirit                                                     Oct 2011 - Present
+   Software Engineer
+   Stafford, TX
+   - Currently working on development of IHS Kingdom 2015 data connector and maintenance of data connectors for IHS products: Kingdom and Petra.
+   - Worked on updating code base of Geoframe’s Charisma data connector.
+   - Worked in maintenance of the Openworks data connector.
+
    Teaching Assistant                                                            2010-2011
    Computer Science and Applied Statistics Department
-   University of New Brunswick, Saint John, NB, Canada 
-      o  Assisted with instructional responsibilities for the following 
-         courses: 
-         - Introduction to Computer Programming in Matlab 
-         - Introduction to Data Structures and Algorithms (C) 
-         - Introduction to Computer Programming in Java 
-         - Computer Science Concepts (Java) 
-   
-   Software Engineer Intern                                              Jun 2008-Jan 2009
-   ION Geophysical, Houston, TX 77449                                                             
-      o  Developed in C++ a command line utility for indexing trace                               
-         header information.                                                                      
-      o  Performed research on MySQL storage engines.                                             
-      o  Deployed google-breakpad, a multi-platform crash reporting system.                       
-                                                                                                  
-   Programmer/Analyst                                                            2007-2008        
-   Biomecanica LTD, Medellín, Colombia                                                            
-      o  Designed and developed a clinical history report system for                              
-         Biomecanica, using PHP and MySQL.                                                        
-      o  Developed and tested back-up software using PHP and MySQL.                               
-                                                                                                  
-                                                                                                  
-   Teaching Assistant                                                        2007-May 2008  
-   EAFIT University, Medellín, Colombia                                                          
-      o  Assisted with instructional responsibilities for Compilers and                          
-         Programming Fundamentals courses.                                                       
-      o  Designed and developed various web applications and web pages.                          
-                                                                                                 
-   Web Developer Summers                                                         2004-2010
-   Panagro S.A., Medellín, Colombia                                                        
-      o Programmed macros in Visual Basic for Excel worksheets.                            
-                                                                                           
-==============================                                                             
-       COMPUTER SKILLS                                                                     
-==============================                                                             
-   Languages:                                                                              
-      o Proficient in: C/C++, Java, C#, Bash, Ruby, PHP                                    
-      o Familiar with: Matlab                                                              
-   Software:                                                                               
-      o Database: MySQL, SQL Server, Oracle                                                
-      o Operating Systems: MS Windows, Unix, OSX                                           
-      o Design: Illustrator, Flash                                                         
-                                                                                           
-==============================                                                             
-         ASSOCIATIONS                                                                      
-==============================                                                             
-   o Society of Exploration Geophysicists (SEG)                               2008-Present 
-   o Semillero de Investigacíon de Recuperacíon de Información (SIRI)                 2007 
-                                                                                           
-==============================                                                             
-      HONORS AND AWARDS                                                                    
-==============================                                                             
-                                                                                           
-   Top Performer of INFOSYS Training Program                                      Oct 2009 
-   GEMIS Award for Undergraduate Project on Viper-SUGUI                           May 2009 
+   University of New Brunswick, Saint John, NB, Canada
+      o  Assisted with instructional responsibilities for the following
+         courses:
+         - Introduction to Computer Programming in Matlab and Java
+         - Introduction to Data Structures and Algorithms (C)
+         - Computer Science Concepts (Java)
 
-============================== 
-          LANGUAGES           
-============================== 
+   Software Engineer Intern                                              Jun 2008-Jan 2009
+   ION Geophysical, Houston, TX 77449
+      o  Developed in C++ a command line utility for indexing trace
+         header information.
+      o  Performed research on MySQL storage engines.
+      o  Deployed google-breakpad, a multi-platform crash reporting system.
+
+   Programmer/Analyst                                                            2007-2008
+   Biomecanica LTD, Medellín, Colombia
+      o  Designed and developed a clinical history report system for
+         Biomecanica, using PHP and MySQL.
+      o  Developed and tested back-up software using PHP and MySQL.
+
+
+   Teaching Assistant                                                        2007-May 2008
+   EAFIT University, Medellín, Colombia
+      o  Assisted with instructional responsibilities for Compilers and
+         Programming Fundamentals courses.
+      o  Designed and developed various web applications and web pages.
+
+   Web Developer Summers                                                         2004-2010
+   Panagro S.A., Medellín, Colombia
+      o Programmed macros in Visual Basic for Excel worksheets.
+
+==============================
+       PUBLICATIONS
+==============================
+    Daniel Lemire, Owen Kaser and Eduardo Gutarra, “Reordering Rows for Smaller Indexes:
+    Beyond the Lexicographic Order”, ACM Transactions on Database Systems, (accepted June 4, 2012).
+
+==============================
+       COMPUTER SKILLS
+==============================
+   Languages:
+      o Proficient in: C/C++, Java, C#, Bash, Ruby, PHP
+      o Familiar with: Matlab
+   Software:
+      o Database: MySQL, SQL Server, Oracle
+      o Operating Systems: MS Windows, Unix, OSX
+      o Design: Illustrator, Flash
+
+==============================
+         ASSOCIATIONS
+==============================
+   o Society of Exploration Geophysicists (SEG)                               2008-Present
+   o Semillero de Investigacíon de Recuperacíon de Información (SIRI)                 2007
+
+==============================
+      HONORS AND AWARDS
+==============================
+
+   Top Performer of INFOSYS Training Program                                      Oct 2009
+   GEMIS Award for Undergraduate Project on Viper-SUGUI                           May 2009
+
+==============================
+          LANGUAGES
+==============================
    Fluent in Spanish (Read, Write, Speak)
 
