@@ -1,17 +1,15 @@
 Eduardo Gutarra
-19603 Fernhaven, Katy, TX 77449
-(281) 398-9692, edvelez.g@gmail.com
+3022 Dogwood Knoll Trl, Rosenberg, TX 77471
+(832)-520-3556, edvelez.g@gmail.com
 
 ==============================
            OBJECTIVE
 ==============================
-
    Obtain a position where I can maximize my skills as a software developer or computer scientist.
 
 ==============================
            EDUCATION
 ==============================
-
    Research-based Master of Computer Science (MCS)                      Graduated May 2012
    University of New Brunswick, Saint John, NB, Canada
    Thesis Title: Multi-column bitmap indexing
@@ -29,7 +27,6 @@ Eduardo Gutarra
 ==============================
           EXPERIENCE
 ==============================
-
    TIBCO OpenSpirit                                                     Oct 2011 - Present
    Software Engineer
    Stafford, TX
@@ -96,7 +93,6 @@ Eduardo Gutarra
 ==============================
       HONORS AND AWARDS
 ==============================
-
    Top Performer of INFOSYS Training Program                                      Oct 2009
    GEMIS Award for Undergraduate Project on Viper-SUGUI                           May 2009
 
